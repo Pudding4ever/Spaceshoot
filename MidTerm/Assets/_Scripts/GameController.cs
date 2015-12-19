@@ -1,12 +1,14 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI; 
 
 public class GameController : MonoBehaviour {
 	// PUBLIC INSTANCE VARIABLES
 	public int enemyCount;
 	public GameObject enemy;
     public GameObject player;
+	public GameObject bigboss;
     public Camera maincamera;
 
     public AudioClip ding;
@@ -15,15 +17,25 @@ public class GameController : MonoBehaviour {
 
     public AudioSource source;
 
-    public List<GameObject> enemies;
+    public List<GameObject> enemies; //so we can get rid of them when it's time for the boss
 
     public int score;
     public int lives;
 
+	public bool bosstime = false;
     public bool gameover = false;
+	public GameObject boom; //death explosion
     
+	public Text lifescore;
+
+	//powerup prefabs
+	public GameObject lifeup;
+	public GameObject rateup;
+
+	//temporary holders for newly instantiated objects
     private GameObject enemyhelper;
     private GameObject playerhelper;
+	private GameObject boss;
 
 
     public void PlayOwSound()
@@ -38,6 +50,12 @@ public class GameController : MonoBehaviour {
         source.Play();
     }
 
+	public void PlayTorpedoSound()
+	{
+		source.clip = torpedo;
+		source.Play();
+	}
+
 	// Use this for initialization
 	void Start () {
         source = GetComponent<AudioSource>();
@@ -49,7 +67,31 @@ public class GameController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		gamestate();
+		UpdateGUI();
         TimeToDie();
+	}
+
+	private void gamestate()
+	{
+		if(bosstime && boss == null)
+		{
+			foreach(GameObject e in enemies){Destroy(e);}
+			boss = Instantiate(bigboss);
+		}
+	}
+	private void GameOver()
+		{
+			Application.LoadLevel("menu");
+		}
+
+	private void UpdateGUI()
+	{
+		if (lives > 0)
+		{
+		lifescore.text = "SCORE: " + score + " \n" + "LIFE: " + lives;
+		}
+		else{lifescore.text = "SCORE: " + score + " \n" + "GAME OVER";}
 	}
 
 	private void _GenerateEnemies() {
@@ -62,29 +104,20 @@ public class GameController : MonoBehaviour {
 		}
 	}
     private void _GeneratePlayer() 
-    { playerhelper = Instantiate(player); 
+    { playerhelper = Instantiate(player);
+		player = playerhelper;
       playerhelper.GetComponent<PlayerController>().maincamera = maincamera;
       playerhelper.GetComponent<PlayerController>().GM = this;
     }
 
-    private void ResetGame()
-    {
-        foreach (GameObject t in enemies) { Destroy(t); }
-        gameover = false;
-        score = 0;
-        lives = 5;
-        _GenerateEnemies();
-    }
+    private void TimeToDie(){
 
-    private void TimeToDie()
-    {
         if (lives <= 0) {
-            gameover = true;
-            if (Input.GetKeyDown("r"))
-            {
-                ResetGame();
-            }
+		{
+			Instantiate(boom, player.transform.position, Quaternion.identity);
+			Destroy (player.gameObject);
+				InvokeRepeating ("GameOver", 5, 15);
         }
     }
 
-}
+	}}

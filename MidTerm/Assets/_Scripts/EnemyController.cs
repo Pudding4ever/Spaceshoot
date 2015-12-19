@@ -16,8 +16,9 @@ public class EnemyController : MonoBehaviour {
 	public Speed speed;
 	public Boundary boundary;
     public GameController GM;
+	public GameObject boom; //death explosion
 
-    public bool resetcauseboom;
+    public bool resetcauseboom; //is the enemy resetting because it was destroyed or because it reached the end?
 
 	// PRIVATE INSTANCE VARIABLES
 	private float _CurrentSpeed;
@@ -41,23 +42,38 @@ public class EnemyController : MonoBehaviour {
 		}
 	}
 
+	//randomly rolls a powerup
+	private void RandomRollPowerUp()
+	{
+		int index = Random.Range(1, 10);
+		if (index == 1){Instantiate (GM.lifeup, this.transform.position, Quaternion.identity);}
+		if (index == 2){Instantiate (GM.rateup, this.transform.position, Quaternion.identity);}
+	}
+
 	// resets the gameObject
 	private void _Reset() {
+		if (resetcauseboom) {RandomRollPowerUp();}
 		this._CurrentSpeed = Random.Range (speed.minSpeed, speed.maxSpeed);
 		Vector2 resetPosition = new Vector2 (Random.Range(boundary.xMin, boundary.xMax), boundary.yMax);
 		gameObject.GetComponent<Transform> ().position = resetPosition;
-        if (!resetcauseboom) { GM.score = GM.score + 10; GM.PlayDingSound(); Debug.Log("Ding! Score up by 10. Current score: " + GM.score); }
+		if (resetcauseboom) {GM.score = GM.score + 10; Debug.Log("Ding! Score up by 10. Current score: " + GM.score); }
         resetcauseboom = false;
 
 	}
 
 	public void TakeDamage(){
-		Destroy(this.gameObject);
+		ResetCauseBoom ();
+	}
+
+	public void ResetCauseBoom()
+	{
+		resetcauseboom = true;
+		Reset();
 	}
 
     public void Reset()
     {
-        resetcauseboom = true;
+		Instantiate (boom, this.transform.position, Quaternion.identity);
         _Reset();
     }
 
