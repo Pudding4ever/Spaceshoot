@@ -1,0 +1,4324 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.094 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Spaceshoot\MidTerm\finalbuildspaceshooter_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2110 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.480657 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.276672 ms (FindLiveObjects: 0.015289 ms CreateObjectMapping: 0.018566 ms MarkObjects: 0.232987 ms  DeleteObjects: 0.008737 ms)
+
+Ding! Score up by 10. Current score: -40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: -30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: -20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: -10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LIFE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 110
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 140
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 150
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 160
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LIFE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 170
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LIFE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 190
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Enemy collison detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LIFE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 210
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LIFE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 220
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 230
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 240
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+enemy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ding! Score up by 10. Current score: 250
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+torpedo collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at GameController.TimeToDie () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossController.TryShooting () [0x00000] in <filename unknown>:0 
+  at BossController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
